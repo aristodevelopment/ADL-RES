@@ -3489,11 +3489,11 @@ table.alt tfoot
     {
         width: 100%;
     }
-/* Hide logo on mobile devices */
+/* Hide logo on mobile devices
     img
     {
         display: none;
-    }
+    } */
 }
 
 @media screen and (max-width: 736px)
